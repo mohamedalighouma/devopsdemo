@@ -117,7 +117,7 @@
 <br>
 <br>
 
-<h1> Creation d'un client </h1>                 
+<h1> Creation d'un client 1</h1>                 
          <input type="submit" value="submit" id="submit5" name="creationClient">
        
 
